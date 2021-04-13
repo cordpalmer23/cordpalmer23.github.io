@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m142.55079,196.08064c-44.69375,-54.34234 51.88681,-55.58403 -12.90337,-124.65389c-64.79017,-69.06986 41.94402,-10.38431 71.54971,25.25418c29.6057,35.63849 -13.95259,153.74205 -58.64634,99.39971z" fill="#00ffff" id="svg_3" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0) rotate(-127.394 160.011 124.752)"/>
+  <path d="m145.2554,63.51158c2,124 -200.38347,-34.15804 -72.19522,74.68903c128.18825,108.84706 70.19522,-198.68903 72.19522,-74.68903z" fill="#7f00ff" id="svg_4" stroke="#000000" stroke-width="5" transform="rotate(96.133 93.563 97.7364)"/>
+  <ellipse cx="379" cy="208.2" fill="none" id="svg_2" rx="53" ry="46" stroke="#000000" stroke-width="5"/>
+  <line fill="none" id="svg_7" stroke="#000000" stroke-width="5" x1="379" x2="379" y1="254.2" y2="356.2"/>
+  <line fill="none" id="svg_8" stroke="#000000" stroke-width="5" x1="375" x2="359" y1="309.2" y2="300.2"/>
+  <line fill="none" id="svg_9" stroke="#000000" stroke-width="5" x1="359" x2="335" y1="300.2" y2="288.2"/>
+  <line fill="none" id="svg_10" stroke="#000000" stroke-width="5" x1="335" x2="316" y1="288.2" y2="225.2"/>
+  <line fill="none" id="svg_11" stroke="#000000" stroke-width="5" x1="375" x2="419.000004" y1="306.200012" y2="306.200012"/>
+  <line fill="none" id="svg_12" stroke="#000000" stroke-width="5" x1="420" x2="457" y1="305.2" y2="337.2"/>
+  <line fill="none" id="svg_13" stroke="#000000" stroke-width="5" x1="376" x2="347" y1="355.199997" y2="431.199999"/>
+  <line fill="none" id="svg_14" stroke="#000000" stroke-width="5" x1="383" x2="417" y1="358.2" y2="426.2"/>
+ </g>
+</svg>

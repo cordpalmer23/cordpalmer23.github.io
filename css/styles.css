@@ -14,7 +14,7 @@
 body {
     background-color: #114d75b0;
     margin: 0px;
-    font-family: sans-serif, Arial, Helvetica,;
+    font-family: 'Rubik', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
     
     
@@ -87,6 +87,16 @@ header {
         text-decoration: none;
         font-size: 18px;
         
+      }
+
+      span{
+        color:rebeccapurple;
+        text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+      }
+
+      #larger{
+        font-size: 2em;
+        margin-top: 6px;
       }
       
      
